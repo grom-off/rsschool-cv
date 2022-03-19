@@ -5,4 +5,4 @@
 5. *No progects in production*
 6. My projects is: https://auto-gomel.by, https://luckybaby.by
 7. Three courses of chemical department in Moscow State University
-8. My english level is intermediate
+8. *My english level is intermediate*
