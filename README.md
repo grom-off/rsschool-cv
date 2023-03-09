@@ -1,2 +1,2 @@
 # rsschool-cv
-My school CV
+https://grom-off.github.io/rsschool-cv/cv
